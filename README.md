@@ -1,1 +1,0 @@
-# cysic_faucet_plugin
